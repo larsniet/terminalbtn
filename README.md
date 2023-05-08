@@ -4,7 +4,7 @@ This extension simply adds a terminal button to the status bar instead of having
 
 ## Features
 
-Toggle the terminal with a button on the status bar. The button is located on the bottom right of the status bar. This makes it easier to access the terminal without having to use a shortcut. A lot of other extensions provide this, but are bloated with other features or save your data. This extension is lightweight and doesn't save any data, we like to keep it simple :smirk:.
+Toggle the terminal with a button on the status bar. The button is located on the bottom right of the status bar. This makes it easier to access the terminal without having to use a shortcut. A lot of other extensions provide this, but are bloated with other features or collect your data. This extension is lightweight and doesn't collect any data, we like to keep it simple :smirk:.
 
 ## Usage
 
