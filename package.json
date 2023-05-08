@@ -8,6 +8,8 @@
     "type": "git",
     "url": "https://github.com/larsniet/terminalbtn"
   },
+  "icon": "images/logo.png",
+  "pricing": "Free",
   "license": "MIT",
   "engines": {
     "vscode": "^1.78.0"
