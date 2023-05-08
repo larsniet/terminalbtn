@@ -3,6 +3,11 @@
   "displayName": "Terminalbtn",
   "description": "Adds a terminal button to the bottom instead of having to use the shortcut.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larsniet/terminalbtn"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.78.0"
   },
